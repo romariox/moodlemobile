@@ -2,21 +2,21 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
-        versionCode = "388"
-        version   = "1.14">
-    <name>Moodle Mobile</name>
+        id        = "br.edu.fate.fateead"
+        versionCode = "1"
+        version   = "1.0">
+    <name>FATE - EAD</name>
 
     <description>
-        Moodle Mobile official app
+        Fate ead mobile
     </description>
 
-    <author href="http://moodle.com" email="juan@moodle.com">
-        Juan Leyva
+    <author href="http://fate.edu.br" email="romario.rodrigues@fate.edu.br">
+        Romário Rodrigues Ramos
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-        <string>1.14</string>
+        <string>1.0</string>
     </gap:config-file>
 
     <preference name="phonegap-version" value="3.6.3" />
